@@ -1,5 +1,5 @@
 ---
-status: proposed
+status: accepted
 decision-makers:
 consulted:
 informed:
